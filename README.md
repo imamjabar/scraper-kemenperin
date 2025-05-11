@@ -77,3 +77,5 @@ This scraper is intended for educational and research purposes only. Users are r
 - Respecting rate limits and server load
 - Using the data in accordance with applicable laws and regulations
 - Verifying the accuracy of scraped data
+
+Last Update: 11 May 2025
